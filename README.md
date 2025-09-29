@@ -1,16 +1,26 @@
 ## Hi there 👋
+# Hi, I'm Sauravi 👋
 
-<!--
-**sauravigit10/sauravigit10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-semester CSIT student at Nepathya College, passionate about frontend web development and eager to build user-friendly digital experiences. I enjoy working with modern tools like React.js, Tailwind CSS, and Git.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Netflix Clone**: A responsive web application mimicking Netflix's interface.
+- **Sadak Project**: A project focusing on road safety awareness.
+- **WHO Website (1st Semester)**: A simple website project from my first semester.
+
+## 🏆 Achievements
+
+- 🏅 Winner of the District-Level Robotics Competition.
+- 🥈 Second Runner-Up in the Robo Race organized by Nepathya College.
+- 🤖 Participated in the Robo Soccer Race with my team.
+
+## 📚 Academic Highlights
+
+- Achieved 'A' grades in all subjects during my CSIT program.
+- Consistently ranked in the top 10% of my class.
+
+## 📫 Get in Touch
+
+- Email: sauravichapagain98@gmail.com
+- GitHub: [sauravigit10](https://github.com/sauravigit10)
