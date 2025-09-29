@@ -17,8 +17,8 @@ I'm a 4th-semester CSIT student at Nepathya College, passionate about frontend w
 
 ## 📚 Academic Highlights
 
-- Achieved 'A' grades in all subjects during my CSIT program.
-- Consistently ranked in the top 10% of my class.
+- Achieved good grades in all subjects during my CSIT program.
+
 
 ## 📫 Get in Touch
 
