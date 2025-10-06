@@ -3,7 +3,7 @@
 <h3 align="center"> 🎓 CSIT Student | 💡 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BCD4&width=435&lines=Passionate+Frontend+Developer;React+%7C+Tailwind+%7C+Bootstrap;Building+Real-World+Projects;Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BCD4&width=435&lines=Passionate+Student;React+%7C+Tailwind+%7C+Bootstrap;Building+Real-World+Projects;Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
