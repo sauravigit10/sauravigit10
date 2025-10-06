@@ -1,7 +1,8 @@
-## Hi there 👋
+
 # Hi, I'm Sauravi 👋
 
-I'm a 4th-semester CSIT student at Nepathya College, passionate about frontend web development and eager to build user-friendly digital experiences. I enjoy working with modern tools like React.js, Tailwind CSS, and Git.
+ Passionate about web development and crafting seamless user experiences. Skilled in React and Tailwind, always eager to learn new technologies and build real-world solutions.
+
 
 ## 🚀 Projects
 
