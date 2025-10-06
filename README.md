@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sauravi Chapagain</h1>
-<h3 align="center">🌐 Web Developer | 🎓 CSIT Student | 💡 Tech Enthusiast</h3>
+<h3 align="center"> 🎓 CSIT Student | 💡 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BCD4&width=435&lines=Passionate+Frontend+Developer;React+%7C+Tailwind+%7C+Bootstrap;Building+Real-World+Projects;Learning+Every+Day" alt="Typing SVG" />
@@ -38,6 +38,7 @@
 | Project | Description |
 |--------|-------------|
 | 🌀 **[Glacier](https://github.com/sauravigit10/Glacier)** | Forked project—explored open source contributions |
+| 📦 **[Jeez](https://github.com/sauravigit10/Jeez)** | A project named “Jeez” in my GitHub — description of what it does |
 | 🎯 **[Netflix Clone](https://github.com/sauravigit10/netflix-clone)** | A Netflix‑inspired UI clone using **React.js** |
 | 🌐 **[WHO Website Clone](https://github.com/sauravigit10/who_website‑1st_sem)** | Built with HTML & CSS in first semester |
 | 🛣️ **[Department of Roads Site](https://github.com/sauravigit10/department_of_roads_site)** | Clean layout with HTML/CSS |
