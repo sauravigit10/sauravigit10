@@ -38,7 +38,6 @@
 | Project | Description |
 |--------|-------------|
 | 🎯 **[Netflix Clone](https://github.com/sauravigit10/netflix-clone)** | A Netflix-inspired UI clone using **React.js** |
-| 🧮 **[Simple Calculator App](https://github.com/sauravigit10/react-calculator)** | Functional calculator made with React |
 | 🌐 **[WHO Website Clone](https://github.com/sauravigit10)** | Created with HTML & CSS as a beginner project |
 | 🧱 **[Department of Roads Site](https://github.com/sauravigit10)** | Clean layout with basic UI/UX practices |
 
