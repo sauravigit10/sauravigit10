@@ -24,3 +24,4 @@ I'm a 4th-semester CSIT student at Nepathya College, passionate about frontend w
 
 - Email: sauravichapagain98@gmail.com
 - GitHub: [sauravigit10](https://github.com/sauravigit10)
+- Linkedin:[sauravi-chapagain]_(https://www.linkedin.com/in/sauravi-chapagain)
